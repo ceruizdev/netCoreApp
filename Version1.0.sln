@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreApp", "NetCoreApp\NetCoreApp.csproj", "{0CE35B46-BE06-4C76-ABF7-07EE13648C99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{525A1D6F-F661-46A1-80B0-494279B2A5ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0CE35B46-BE06-4C76-ABF7-07EE13648C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE35B46-BE06-4C76-ABF7-07EE13648C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE35B46-BE06-4C76-ABF7-07EE13648C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525A1D6F-F661-46A1-80B0-494279B2A5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525A1D6F-F661-46A1-80B0-494279B2A5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525A1D6F-F661-46A1-80B0-494279B2A5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525A1D6F-F661-46A1-80B0-494279B2A5ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
